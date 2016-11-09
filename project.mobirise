@@ -1,0 +1,1585 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.6.2",
+    "uniqCompNum": 0,
+    "versionPublish": "3.6.2",
+    "name": "julie charon",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///Users/juliecharon/Desktop/juliecharonn",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "Julie Charon, brand, soft sculptures\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left",
+              "color": "#fba3fc"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffcbfa",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "46px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "assets/images/untitled-1-2000x2829-82.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "JULIE &nbsp; &nbsp;CHARON<br>TEXTIEL DESIGN",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Soft Sculptures",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-2-copyright-2000x2458-53-2000x2458-84.png",
+                "image": "assets/images/afbeelding-2-copyright-2000x2458-53.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Indentiteit",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/boekenkast-1-stuk-copyright-2000x2830-94-2000x2830-29.png",
+                "image": "assets/images/boekenkast-1-stuk-copyright-2000x2830-94.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Same Same",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/foto-10-copyright-2000x2828-86-2000x2828-11.png",
+                "image": "assets/images/foto-10-copyright-2000x2828-86.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Patroon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/foto-9-copyright-2000x2830-99-2000x2830-33.png",
+                "image": "assets/images/foto-9-copyright-2000x2830-99.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Soft Sculptures",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/foto-5-copyright-2000x2829-31-2000x2829-69.png",
+                "image": "assets/images/foto-5-copyright-2000x2829-31.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Indentiteit",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/opa-stoel-3-copyright-2000x2830-13-2000x2830-32.png",
+                "image": "assets/images/opa-stoel-3-copyright-2000x2830-13.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Soft Sculptures",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-4-copyright-2000x2252-48-2000x2252-87.png",
+                "image": "assets/images/afbeelding-4-copyright-2000x2252-48.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Brand",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-7-copyright-2000x1414-13-2000x1414-31.png",
+                "image": "assets/images/afbeelding-7-copyright-2000x1414-13.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Indentiteit",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/vloer-wc-2000x2830-70-2000x2830-41.png",
+                "image": "assets/images/vloer-wc-2000x2830-70.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Brand",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-6-copyright-2000x2829-50-2000x2829-49.png",
+                "image": "assets/images/afbeelding-6-copyright-2000x2829-50.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Brand",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-9-copyright-2000x1666-29-2000x1666-81.png",
+                "image": "assets/images/afbeelding-9-copyright-2000x1666-29.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Indentiteit",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/boeken-en-lijnenspel-copyright-2000x2830-91-2000x2830-15.png",
+                "image": "assets/images/boeken-en-lijnenspel-copyright-2000x2830-91.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "5",
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content2",
+          "_anchor": "content2-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fdcef9"
+            }
+          },
+          "_anchor": "social-buttons1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "TOT SNEL!"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#fdcef9"
+            }
+          },
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Julie Charon</p><p>Gent</p><p><br></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        }
+      ]
+    },
+    "About.html": {
+      "settings": {
+        "meta_descr": "about"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "80px",
+              "color": "#000000"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "48px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "HALLO<br><div>Ik ben Julie Charon, een student Textiel Ontwerp op LUCA school of Arts in Gent.</div><div>Ik ben vooral bezig met grafische patronen in combinatie met verschillende</div><div>texturen en materialen.</div>",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        }
+      ]
+    },
+    "softsculptures.html": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>SOFT</b> <b>SCULPTURES</b></p>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>Een onderzoek naar hoe sterk een traditie, in dit geval een netstructuur vandaag aanwezig kan zijn.</b>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/afbeelding-1-copyright-2000x2987-95-2000x2987-64.png",
+                "image": "assets/images/afbeelding-1-copyright-2000x2987-95.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/beeld-3-copyright-2000x1338-34-2000x1338-56.png",
+                "image": "assets/images/beeld-3-copyright-2000x1338-34.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/beeld-copyright-2000x1413-91-2000x1413-93.png",
+                "image": "assets/images/beeld-copyright-2000x1413-91.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/beeld-jpg-proff-2000x2458-58-2000x2458-1.jpg",
+                "image": "assets/images/beeld-jpg-proff-2000x2458-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/dsc-0851copyrght-2000x1972-40-2000x1972-98.png",
+                "image": "assets/images/dsc-0851copyrght-2000x1972-40.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/collage-net-net-netcopyright-2000x1442-38-2000x1442-53.png",
+                "image": "assets/images/collage-net-net-netcopyright-2000x1442-38.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/dsc-0887copyright-2000x1338-56-2000x1338-39.png",
+                "image": "assets/images/dsc-0887copyright-2000x1338-56.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/foto-5-copyright-2000x2829-71-2000x2829-36.png",
+                "image": "assets/images/foto-5-copyright-2000x2829-71.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/net-tegenover-andere-netten-pscopyright-2000x1613-14-2000x1613-9.png",
+                "image": "assets/images/net-tegenover-andere-netten-pscopyright-2000x1613-14.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "5",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "contact"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "form1-0",
+          "_params": {
+            "labelsColor": "#2b0680",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "CONTACTEER ME!",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "julie_charon@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "Brand.html": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>A BRAND - MINNINERING</b></p>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Een samenwerking met Katrin uit Noorwegen. Een onderzoek hoe 2 culturen elkaar kunnen tegemoet komen.</b></p>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/copyright-2000x1413-58-2000x1413-43.png",
+                "image": "assets/images/copyright-2000x1413-58.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/foto-peecopyrightr-2000x1413-23-2000x1413-87.png",
+                "image": "assets/images/foto-peecopyrightr-2000x1413-23.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/hbhcopyright-2000x1413-77-2000x1413-93.png",
+                "image": "assets/images/hbhcopyright-2000x1413-77.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/hhbuhucopy-2000x1413-9-2000x1413-96.png",
+                "image": "assets/images/hhbuhucopy-2000x1413-9.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/piramidcopyyyy-2000x1413-57-2000x1413-92.png",
+                "image": "assets/images/piramidcopyyyy-2000x1413-57.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "5",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Patroon.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "B": {
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>PATROON</b>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Een onderzoek naar hoe een grafisch patroon verstoord kan worden en kan leiden naar een nieuw en veranderlijk patroon.</b></p>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/copyright-ptrn-2000x2829-62-2000x2829-74.png",
+                "image": "assets/images/copyright-ptrn-2000x2829-62.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/copy-ptrn-2000x2662-49-2000x2662-59.png",
+                "image": "assets/images/copy-ptrn-2000x2662-49.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/copyrght-ptrnn-2000x2829-1-2000x2829-33.png",
+                "image": "assets/images/copyrght-ptrnn-2000x2829-1.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Identiteit.html": {
+      "settings": {},
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fb9df3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fcbff7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdcef9"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HALLO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SAME SAME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Patroon.html\" aria-expanded=\"false\">PATROON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"softsculptures.html\" aria-expanded=\"false\">SOFT SCULPTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Brand.html\" aria-expanded=\"false\">BRAND</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Identiteit.html\" aria-expanded=\"false\">IDENTITEIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>ONDERZOEK NAAR IDENTITEIT</b></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/boeken-en-lijnenspel-copyright-2000x2830-63-2000x2830-7.png",
+                "image": "assets/images/boeken-en-lijnenspel-copyright-2000x2830-63.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/boekenkast-1-stuk-copyright-2000x2830-38-2000x2830-26.png",
+                "image": "assets/images/boekenkast-1-stuk-copyright-2000x2830-38.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/opa-stoel-3-copyright-2000x2830-11-2000x2830-48.png",
+                "image": "assets/images/opa-stoel-3-copyright-2000x2830-11.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/vloer-wc-2000x2830-67-2000x2830-63.png",
+                "image": "assets/images/vloer-wc-2000x2830-67.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/kasthoek-2000x2830-44-2000x2830-44.png",
+                "image": "assets/images/kasthoek-2000x2830-44.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/elise-2000x2830-39-2000x2830-69.png",
+                "image": "assets/images/elise-2000x2830-39.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-0",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
